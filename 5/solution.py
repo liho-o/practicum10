@@ -18,4 +18,4 @@ try:
     main(first, second, third)
     f.close()
 except ValueError:
-    print('data eror')
+    print('data error')
